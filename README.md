@@ -68,5 +68,5 @@ Built as a Smart India Hackathon project focused on improving and digitizing hea
 Developed by the MediTrack team.
 
 ## 📄 License
-
+----
 This project is currently intended for academic and demonstration purposes.
